@@ -1,0 +1,4 @@
+class {
+how ru
+
+}
